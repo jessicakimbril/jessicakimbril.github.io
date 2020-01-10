@@ -29,7 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://github.com/jessicakimbril"
+avatar: "https://avatars2.githubusercontent.com/u/57114403?s=400&u=93666fc26392c9caa27bd0e8f0f349e581403a47&v=4"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -39,7 +39,7 @@ avatar: "https://github.com/jessicakimbril"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#a181b3"
+navbar-col: "#b9ede5"
 navbar-text-col: "#000000"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
