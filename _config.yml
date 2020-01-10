@@ -21,8 +21,10 @@ description: A collection of my data science projects
 navbar-links:
   Bio: "aboutme"
   Resources:
-    - My hometown newspaper: "http://abc3340.com"
+    - Learn Python: "https://www.learnpython.org/en/Welcome"
+    - Visualize Python: "http://www.pythontutor.com/visualize.html#mode=edit"
     - Learn markdown: "http://www.markdowntutorial.com/"
+    - Stack Overflow: "https://stackoverflow.com/"
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
