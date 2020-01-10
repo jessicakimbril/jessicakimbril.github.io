@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Jessica's Portfolio
+title: My Portfolio
 
 # Short description of your site
 description: A collection of my data science projects
@@ -155,7 +155,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
